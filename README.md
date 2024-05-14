@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+![Imagen de Portada](img/k.jpg)
 **b0nevv/b0nevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
